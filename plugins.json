@@ -3,11 +3,20 @@
   "description": "List Off all Movies Provider",
   "plugins": [
     {
+      "id": "com.viplay.plugin.template",
+      "name": "Template Source",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/vista136/viboxplay_movie_repo/main/template Source_plugins.viplay",
+      "description": "Template plugin \u2014 ganti dengan deskripsi source kamu",
+      "author": "Your Name",
+      "entryClass": "com.viplay.plugin.template.TemplatePlugin"
+    },
+    {
       "id": "com.viplay.plugin.moviebox",
       "name": "MovieBox",
       "version": "1.0.0",
       "url": "https://raw.githubusercontent.com/vista136/viboxplay_movie_repo/main/movieBox_plugins.viplay",
-      "description": "MovieBox movie source",
+      "description": "MovieBox movie source plugin",
       "author": "ViPlay",
       "entryClass": "com.viplay.plugin.moviebox.MovieBoxPlugin"
     }
