@@ -6,7 +6,7 @@
       "id": "com.viplay.plugin.moviebox",
       "name": "MovieBox",
       "version": "1.0.0",
-      "url": "https://github.com/vista136/viboxplay_movie_repo/raw/refs/heads/main/movieBox_plugins.viplay",
+      "url": "https://raw.githubusercontent.com/vista136/viboxplay_movie_repo/main/movieBox_plugins.viplay",
       "description": "MovieBox movie source",
       "author": "ViPlay",
       "entryClass": "com.viplay.plugin.moviebox.MovieBoxPlugin"
