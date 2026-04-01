@@ -1,0 +1,15 @@
+{
+  "name": "ViBoxPlay Movie Plugins",
+  "description": "List Off all Movies Provider",
+  "plugins": [
+    {
+      "id": "com.viplay.plugin.moviebox",
+      "name": "MovieBox",
+      "version": "1.0.0",
+      "url": "https://github.com/user/repo/releases/download/v1.0/template.viplay",
+      "description": "Template movie source",
+      "author": "Your Name",
+      "entryClass": "com.viplay.plugin.template.TemplatePlugin"
+    }
+  ]
+}
