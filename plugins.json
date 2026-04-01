@@ -6,10 +6,10 @@
       "id": "com.viplay.plugin.moviebox",
       "name": "MovieBox",
       "version": "1.0.0",
-      "url": "https://github.com/user/repo/releases/download/v1.0/template.viplay",
-      "description": "Template movie source",
-      "author": "Your Name",
-      "entryClass": "com.viplay.plugin.template.TemplatePlugin"
+      "url": "https://github.com/vista136/viboxplay_movie_repo/raw/refs/heads/main/movieBox_plugins.viplay",
+      "description": "MovieBox movie source",
+      "author": "ViPlay",
+      "entryClass": "com.viplay.plugin.moviebox.MovieBoxPlugin"
     }
   ]
 }
