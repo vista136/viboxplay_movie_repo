@@ -10,15 +10,6 @@
       "description": "MovieBox movie source plugin",
       "author": "ViPlay",
       "entryClass": "com.viplay.plugin.moviebox.MovieBoxPlugin"
-    },
-    {
-      "id": "com.viplay.plugin.melolo",
-      "name": "MO",
-      "version": "0.0.1",
-      "url": "https://raw.githubusercontent.com/vista136/viboxplay_movie_repo/main/mO_plugins.viplay",
-      "description": "Melolo movie source plugin",
-      "author": "ViPlay",
-      "entryClass": "com.viplay.plugin.melolo.MeloloPlugin"
     }
   ]
 }
