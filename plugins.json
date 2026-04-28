@@ -10,6 +10,15 @@
       "description": "MovieBox movie source plugin",
       "author": "ViPlay",
       "entryClass": "com.viplay.plugin.moviebox.MovieBoxPlugin"
+    },
+    {
+      "id": "com.viplay.plugin.mbshorts",
+      "name": "MB-SHORTS",
+      "version": "0.0.3",
+      "url": "https://raw.githubusercontent.com/vista136/viboxplay_movie_repo/main/mB-SHORTS_plugins.viplay",
+      "description": "MovieBox Shorts movie source plugin",
+      "author": "ViPlay",
+      "entryClass": "com.viplay.plugin.mbshorts.Plugin"
     }
   ]
 }
