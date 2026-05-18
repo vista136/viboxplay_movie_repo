@@ -4,36 +4,36 @@
   "plugins": [
     {
       "id": "com.viplay.plugin.moviebox",
-      "name": "MB",
-      "version": "1.3.4",
-      "url": "https://raw.githubusercontent.com/vista136/viboxplay_movie_repo/main/mB_plugins.viplay",
+      "name": "MOVIES",
+      "version": "1.3.5",
+      "url": "https://raw.githubusercontent.com/vista136/viboxplay_movie_repo/main/mOVIES_plugins.viplay",
       "description": "MovieBox movie source plugin",
       "author": "ViPlay",
       "entryClass": "com.viplay.plugin.moviebox.MovieBoxPlugin"
     },
     {
       "id": "com.viplay.plugin.mbshorts",
-      "name": "MB-SHORTS",
-      "version": "0.0.3",
-      "url": "https://raw.githubusercontent.com/vista136/viboxplay_movie_repo/main/mB-SHORTS_plugins.viplay",
+      "name": "SHORTS VIDEO",
+      "version": "0.0.4",
+      "url": "https://raw.githubusercontent.com/vista136/viboxplay_movie_repo/main/sHORTSVIDEO_plugins.viplay",
       "description": "MovieBox Shorts movie source plugin",
       "author": "ViPlay",
       "entryClass": "com.viplay.plugin.mbshorts.Plugin"
     },
     {
       "id": "com.viplay.plugin.mbseries",
-      "name": "MB-SERIES",
-      "version": "0.0.2",
-      "url": "https://raw.githubusercontent.com/vista136/viboxplay_movie_repo/main/mB-SERIES_plugins.viplay",
+      "name": "SERIAL TV",
+      "version": "0.0.3",
+      "url": "https://raw.githubusercontent.com/vista136/viboxplay_movie_repo/main/sERIALTV_plugins.viplay",
       "description": "MovieBox Sries movie source plugin",
       "author": "ViPlay",
       "entryClass": "com.viplay.plugin.mbseries.Plugin"
     },
     {
       "id": "com.viplay.plugin.mbanime",
-      "name": "MB-ANIME",
-      "version": "0.0.1",
-      "url": "https://raw.githubusercontent.com/vista136/viboxplay_movie_repo/main/mB-ANIME_plugins.viplay",
+      "name": "ANIME",
+      "version": "0.0.2",
+      "url": "https://raw.githubusercontent.com/vista136/viboxplay_movie_repo/main/aNIME_plugins.viplay",
       "description": "MovieBox Anime movie source plugin",
       "author": "ViPlay",
       "entryClass": "com.viplay.plugin.mbanime.Plugin"
