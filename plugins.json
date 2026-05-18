@@ -28,6 +28,15 @@
       "description": "MovieBox Sries movie source plugin",
       "author": "ViPlay",
       "entryClass": "com.viplay.plugin.mbseries.Plugin"
+    },
+    {
+      "id": "com.viplay.plugin.mbanime",
+      "name": "MB-ANIME",
+      "version": "0.0.1",
+      "url": "https://raw.githubusercontent.com/vista136/viboxplay_movie_repo/main/mB-ANIME_plugins.viplay",
+      "description": "MovieBox Anime movie source plugin",
+      "author": "ViPlay",
+      "entryClass": "com.viplay.plugin.mbanime.Plugin"
     }
   ]
 }
