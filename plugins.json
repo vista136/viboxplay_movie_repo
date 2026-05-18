@@ -23,7 +23,7 @@
     {
       "id": "com.viplay.plugin.mbseries",
       "name": "MB-SERIES",
-      "version": "0.0.1",
+      "version": "0.0.2",
       "url": "https://raw.githubusercontent.com/vista136/viboxplay_movie_repo/main/mB-SERIES_plugins.viplay",
       "description": "MovieBox Sries movie source plugin",
       "author": "ViPlay",
