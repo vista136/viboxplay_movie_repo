@@ -10,6 +10,15 @@
       "description": "Video host extractor engine for ViPlay",
       "author": "ViPlay",
       "entryClass": "com.viplay.plugin.extractor.ExtractorPlugin"
+    },
+    {
+      "id": "com.viplay.plugin.dutamovie",
+      "name": "Dutamovie",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/vista136/viboxplay_movie_repo/main/dutamovie_plugins.viplay",
+      "description": "Dutamovie provider plugin - Indonesian movie source",
+      "author": "ViPlay",
+      "entryClass": "com.viplay.plugin.dutamovie.DutamoviePlugin"
     }
   ]
 }
