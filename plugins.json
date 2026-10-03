@@ -3,40 +3,13 @@
   "description": "List Off all Movies Provider",
   "plugins": [
     {
-      "id": "com.viplay.plugin.moviebox",
-      "name": "MOVIES",
-      "version": "1.4.2",
-      "url": "https://raw.githubusercontent.com/vista136/viboxplay_movie_repo/main/mOVIES_plugins.viplay",
-      "description": "MovieBox movie source plugin",
+      "id": "com.viplay.plugin.extractor",
+      "name": "Extractor Engine",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/vista136/viboxplay_movie_repo/main/extractorEngine_plugins.viplay",
+      "description": "Video host extractor engine for ViPlay",
       "author": "ViPlay",
-      "entryClass": "com.viplay.plugin.moviebox.MovieBoxPlugin"
-    },
-    {
-      "id": "com.viplay.plugin.mbshorts",
-      "name": "SHORTS VIDEO",
-      "version": "0.0.6",
-      "url": "https://raw.githubusercontent.com/vista136/viboxplay_movie_repo/main/sHORTSVIDEO_plugins.viplay",
-      "description": "MovieBox Shorts movie source plugin",
-      "author": "ViPlay",
-      "entryClass": "com.viplay.plugin.mbshorts.Plugin"
-    },
-    {
-      "id": "com.viplay.plugin.mbseries",
-      "name": "SERIAL TV",
-      "version": "0.0.7",
-      "url": "https://raw.githubusercontent.com/vista136/viboxplay_movie_repo/main/sERIALTV_plugins.viplay",
-      "description": "MovieBox Sries movie source plugin",
-      "author": "ViPlay",
-      "entryClass": "com.viplay.plugin.mbseries.Plugin"
-    },
-    {
-      "id": "com.viplay.plugin.mbanime",
-      "name": "ANIME",
-      "version": "0.0.7",
-      "url": "https://raw.githubusercontent.com/vista136/viboxplay_movie_repo/main/aNIME_plugins.viplay",
-      "description": "MovieBox Anime movie source plugin",
-      "author": "ViPlay",
-      "entryClass": "com.viplay.plugin.mbanime.Plugin"
+      "entryClass": "com.viplay.plugin.extractor.ExtractorPlugin"
     }
   ]
 }
