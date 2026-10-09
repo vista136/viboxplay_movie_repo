@@ -5,7 +5,7 @@
     {
       "id": "com.viplay.plugin.mbanime",
       "name": "ANIME",
-      "version": "0.0.7",
+      "version": "0.0.8",
       "url": "https://raw.githubusercontent.com/vista136/viboxplay_movie_repo/main/aNIME_plugins.viplay",
       "description": "MovieBox Anime movie source plugin",
       "author": "ViPlay",
@@ -14,7 +14,7 @@
     {
       "id": "com.viplay.plugin.mbshorts",
       "name": "SHORTS VIDEO",
-      "version": "0.0.6",
+      "version": "0.0.7",
       "url": "https://raw.githubusercontent.com/vista136/viboxplay_movie_repo/main/sHORTSVIDEO_plugins.viplay",
       "description": "MovieBox Shorts movie source plugin",
       "author": "ViPlay",
@@ -23,7 +23,7 @@
     {
       "id": "com.viplay.plugin.dutamovie",
       "name": "Dutamovie",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "url": "https://raw.githubusercontent.com/vista136/viboxplay_movie_repo/main/dutamovie_plugins.viplay",
       "description": "Dutamovie provider plugin - Indonesian movie source",
       "author": "ViPlay",
@@ -32,7 +32,7 @@
     {
       "id": "com.viplay.plugin.extractor",
       "name": "Extractor Engine",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "url": "https://raw.githubusercontent.com/vista136/viboxplay_movie_repo/main/extractorEngine_plugins.viplay",
       "description": "Video host extractor engine for ViPlay",
       "author": "ViPlay",
@@ -41,7 +41,7 @@
     {
       "id": "com.viplay.plugin.moviebox",
       "name": "MovieBox",
-      "version": "2.0.0",
+      "version": "2.0.1",
       "url": "https://raw.githubusercontent.com/vista136/viboxplay_movie_repo/main/movieBox_plugins.viplay",
       "description": "MovieBox All-in-One: Film, Series, Anime & Shorts",
       "author": "ViPlay",
@@ -50,7 +50,7 @@
     {
       "id": "com.viplay.plugin.mbseries",
       "name": "SERIAL TV",
-      "version": "0.0.7",
+      "version": "0.0.8",
       "url": "https://raw.githubusercontent.com/vista136/viboxplay_movie_repo/main/sERIALTV_plugins.viplay",
       "description": "MovieBox Sries movie source plugin",
       "author": "ViPlay",
@@ -59,7 +59,7 @@
     {
       "id": "com.viplay.plugin.idlix",
       "name": "Idlix",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "url": "https://raw.githubusercontent.com/vista136/viboxplay_movie_repo/main/idlix_plugins.viplay",
       "description": "Idlix movie and series provider plugin",
       "author": "ViPlay",
