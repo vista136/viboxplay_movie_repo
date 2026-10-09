@@ -40,10 +40,10 @@
     },
     {
       "id": "com.viplay.plugin.moviebox",
-      "name": "MOVIES",
-      "version": "1.4.2",
-      "url": "https://raw.githubusercontent.com/vista136/viboxplay_movie_repo/main/mOVIES_plugins.viplay",
-      "description": "MovieBox movie source plugin",
+      "name": "MovieBox",
+      "version": "2.0.0",
+      "url": "https://raw.githubusercontent.com/vista136/viboxplay_movie_repo/main/movieBox_plugins.viplay",
+      "description": "MovieBox All-in-One: Film, Series, Anime & Shorts",
       "author": "ViPlay",
       "entryClass": "com.viplay.plugin.moviebox.MovieBoxPlugin"
     },
@@ -55,6 +55,15 @@
       "description": "MovieBox Sries movie source plugin",
       "author": "ViPlay",
       "entryClass": "com.viplay.plugin.mbseries.Plugin"
+    },
+    {
+      "id": "com.viplay.plugin.idlix",
+      "name": "Idlix",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/vista136/viboxplay_movie_repo/main/idlix_plugins.viplay",
+      "description": "Idlix movie and series provider plugin",
+      "author": "ViPlay",
+      "entryClass": "com.viplay.plugin.idlix.IdlixPlugin"
     }
   ]
 }
