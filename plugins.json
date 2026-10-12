@@ -3,24 +3,6 @@
   "description": "List Off all Movies Provider",
   "plugins": [
     {
-      "id": "com.viplay.plugin.mbanime",
-      "name": "ANIME",
-      "version": "0.0.9",
-      "url": "https://raw.githubusercontent.com/vista136/viboxplay_movie_repo/main/aNIME_plugins.viplay",
-      "description": "MovieBox Anime movie source plugin (Inactive)",
-      "author": "ViPlay",
-      "entryClass": "com.viplay.plugin.mbanime.Plugin"
-    },
-    {
-      "id": "com.viplay.plugin.mbshorts",
-      "name": "SHORTS VIDEO",
-      "version": "0.0.8",
-      "url": "https://raw.githubusercontent.com/vista136/viboxplay_movie_repo/main/sHORTSVIDEO_plugins.viplay",
-      "description": "MovieBox Shorts movie source plugin (Inactive)",
-      "author": "ViPlay",
-      "entryClass": "com.viplay.plugin.mbshorts.Plugin"
-    },
-    {
       "id": "com.viplay.plugin.dutamovie",
       "name": "Dutamovie",
       "version": "1.0.2",
@@ -46,15 +28,6 @@
       "description": "MovieBox All-in-One: Film, Series, Anime & Shorts",
       "author": "ViPlay",
       "entryClass": "com.viplay.plugin.moviebox.MovieBoxPlugin"
-    },
-    {
-      "id": "com.viplay.plugin.mbseries",
-      "name": "SERIAL TV",
-      "version": "0.0.9",
-      "url": "https://raw.githubusercontent.com/vista136/viboxplay_movie_repo/main/sERIALTV_plugins.viplay",
-      "description": "MovieBox Series movie source plugin (Inactive)",
-      "author": "ViPlay",
-      "entryClass": "com.viplay.plugin.mbseries.Plugin"
     },
     {
       "id": "com.viplay.plugin.idlix",
