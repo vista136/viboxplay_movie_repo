@@ -50,7 +50,7 @@
     {
       "id": "com.viplay.plugin.samehadaku",
       "name": "Samehadaku",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "url": "https://raw.githubusercontent.com/vista136/viboxplay_movie_repo/main/samehadaku_plugins.viplay",
       "description": "Samehadaku provider plugin - Anime subtitle Indonesia",
       "author": "ViPlay",
@@ -59,7 +59,7 @@
     {
       "id": "com.viplay.plugin.animeindo",
       "name": "AnimeIndo",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "url": "https://raw.githubusercontent.com/vista136/viboxplay_movie_repo/main/animeIndo_plugins.viplay",
       "description": "AnimeIndo provider plugin - Anime, Movie & Donghua Sub Indo",
       "author": "ViPlay",
@@ -68,7 +68,7 @@
     {
       "id": "com.viplay.plugin.anichinmoe",
       "name": "Anichin",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "url": "https://raw.githubusercontent.com/vista136/viboxplay_movie_repo/main/anichin_plugins.viplay",
       "description": "Anichin provider plugin - Nonton Donghua & Anime Subtitle Indonesia",
       "author": "ViPlay",
