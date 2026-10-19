@@ -37,6 +37,15 @@
       "description": "Idlix movie and series provider plugin",
       "author": "ViPlay",
       "entryClass": "com.viplay.plugin.idlix.IdlixPlugin"
+    },
+    {
+      "id": "com.viplay.plugin.freereels",
+      "name": "FreeReels",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/vista136/viboxplay_movie_repo/main/freeReels_plugins.viplay",
+      "description": "FreeReels Asian Short Drama & Anime provider plugin",
+      "author": "ViPlay",
+      "entryClass": "com.viplay.plugin.freereels.FreeReelsPlugin"
     }
   ]
 }
