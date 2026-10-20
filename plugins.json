@@ -48,15 +48,6 @@
       "entryClass": "com.viplay.plugin.freereels.FreeReelsPlugin"
     },
     {
-      "id": "com.viplay.plugin.samehadaku",
-      "name": "Samehadaku",
-      "version": "1.0.3",
-      "url": "https://raw.githubusercontent.com/vista136/viboxplay_movie_repo/main/samehadaku_plugins.viplay",
-      "description": "Samehadaku provider plugin - Anime subtitle Indonesia",
-      "author": "ViPlay",
-      "entryClass": "com.viplay.plugin.samehadaku.SamehadakuPlugin"
-    },
-    {
       "id": "com.viplay.plugin.animeindo",
       "name": "AnimeIndo",
       "version": "1.0.3",
